@@ -1,3 +1,5 @@
+<center>
+
 # studiousmaths
 Best Open-Source Unblocker to use in School
 
@@ -20,3 +22,5 @@ Best Open-Source Unblocker to use in School
 9. The software author or license can not be held liable for any damages inflicted by the software.
 ```
 </details
+
+</center>
