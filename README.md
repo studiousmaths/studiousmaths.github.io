@@ -1,7 +1,7 @@
 <center>
 
 # studiousmaths
-Best Open-Source Unblocker to use in School
+### Best Open-Source Unblocker to use in School
 
 ---
 
