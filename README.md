@@ -1,6 +1,7 @@
 # studiousmaths
 [![stars](https://img.shields.io/github/stars/rblxcollin/studiousmaths)](https://github.com/rblxcollin/studiousmaths)
 [![watchers](https://img.shields.io/github/watchers/rblxcollin/studiousmaths)](https://github.com/rblxcollin/studiousmaths)
+
 Best Open-Source Unblocker to use in School
 
 ## License
