@@ -1,9 +1,8 @@
-<center>
-
 # studiousmaths
-### Best Open-Source Unblocker to use in School
+Best Open-Source Unblocker to use in School
 
----
+[![stars](https://img.shields.io/github/stars/rblxcollin/studiousmaths)](https://github.com/rblxcollin/studiousmaths)
+[![watchers](https://img.shields.io/github/watchers/rblxcollin/studiousmaths)](https://github.com/rblxcollin/studiousmaths)
 
 ## License
 <details>
@@ -22,5 +21,3 @@
 9. The software author or license can not be held liable for any damages inflicted by the software.
 ```
 </details
-
-</center>
