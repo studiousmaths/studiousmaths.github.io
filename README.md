@@ -6,7 +6,7 @@ Best Open-Source Unblocker to use in School
 ## License
 <details>
 
-<summary>This Project is licensed under [GNU GPL V3](https://www.gnu.org/licenses/gpl-3.0.html)</summary>
+<summary>This Project is licensed under <a href="https://www.gnu.org/licenses/gpl-3.0.html">GNU GPL V3</a></summary>
 
 ```markdown
 1. Anyone can copy, modify and distribute this software.
