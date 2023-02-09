@@ -47,6 +47,7 @@ body, html {
 }
 
 .menu {
+	border-style: none;
 	border: 0 0 0;
 	color: white;
 	margin:20px;
