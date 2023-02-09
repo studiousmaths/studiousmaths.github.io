@@ -10,8 +10,8 @@ body, html {
 	font-family: "Plus Jakarta Sans", Arial, Helvetica, sans-serif;
 }
 @media only screen and (min-width: 768px) {
-	.alert-box {margin: 5px;}
-	.main {margin: 5px;}
+	.alert-box {margin: 5px; width: 100%;}
+	.main {margin: 5px; width: 100%;}
 }
 .alert-box {
 	background-color: #277C48;
