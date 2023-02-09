@@ -1,3 +1,12 @@
+@media only screen and (max-width: 500px) {
+	.main {
+		margin:0px;
+	}
+	.alert-box {
+		margin:0px;
+	}
+}
+
 @font-face {
 	font-family: 'Plus Jakarta Sans';
 	src: URL('PlusJakartaSans.ttf') format('truetype');
@@ -110,11 +119,3 @@ ul {
   color: ghostwhite;
 }
 
-@media only screen and (max-width: 500px) {
-	.main {
-		margin:0px;
-	}
-	.alert-box {
-		margin:0px;
-	}
-}
