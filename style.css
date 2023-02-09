@@ -19,6 +19,9 @@ body, html {
 	font-family: "Plus Jakarta Sans", Arial, Helvetica, sans-serif;
 	border-radius: 20px;
 	margin-bottom: 20px;
+	margin: 5px;
+	padding:5px;
+	padding-left: 20px;
 }
 .alert-box .badge {
 	background-color: #1D5D36;
