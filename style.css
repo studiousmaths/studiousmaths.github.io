@@ -50,6 +50,7 @@ body, html {
 	border-style: none;
 	border: 0 0 0;
 	color: white;
+	cursor: pointer;
 	margin:20px;
 	text-decoration: none;
 	background-color: #364159;
@@ -59,6 +60,9 @@ body, html {
 }
 
 .bypass {
+	border-style: none;
+	border: 0 0 0;
+	color: white;
 	cursor: pointer;
 	margin:20px;
 	text-decoration: none;
