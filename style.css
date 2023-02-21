@@ -73,6 +73,10 @@ body, html {
 	border-radius: 10px;
 }
 
+.bypass2 {
+	background-color: #2a2653;
+}
+
 iframe {
 	aspect-ratio: 16 / 9;
 	height: 100%;
