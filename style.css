@@ -60,7 +60,7 @@ body, html {
 	border-radius: 10px;
 }
 
-.bypass {
+.minecraft {
 	border-style: none;
 	border: 0 0 0;
 	color: white;
@@ -73,14 +73,14 @@ body, html {
 	border-radius: 10px;
 }
 
-.bypass2 {
-	background-color: #2a2653;
+.minecraft-variants {
 	border-style: none;
 	border: 0 0 0;
 	color: white;
 	cursor: pointer;
 	margin:20px;
 	text-decoration: none;
+	background-color: #2a2653;
 	font-size: 20px;
 	padding:10px;
 	border-radius: 10px;
