@@ -34,7 +34,7 @@ body, html {
 }
 
 hr {
-	border: 0.3px dotted rgb(219, 219, 219);
+	border: 0.3px solid rgb(170, 170, 170);
 }
 
 .main {
