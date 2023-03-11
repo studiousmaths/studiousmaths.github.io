@@ -33,7 +33,7 @@ body, html {
 	text-transform: uppercase;
 }
 
-.hr {
+hr {
 	border: 0.3px dotted rgb(219, 219, 219);
 }
 
